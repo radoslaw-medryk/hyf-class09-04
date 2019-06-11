@@ -1,0 +1,40 @@
+[
+    {
+        "name": "NodeJS",
+        "duration": "5weeks",
+        "github": "https://github.com/HackYourFuture-CPH/nodeJS"
+    },
+    {
+        "name": "JS",
+        "duration": "9weeks",
+        "github": "https://github.com/HackYourFuture-CPH/JS"
+    },
+    {
+        "name": "HTML-CSS",
+        "duration": "3weeks",
+        "github": "https://github.com/HackYourFuture-CPH/HTML-CSS"
+    },
+    {
+        "name": "Java",
+        "duration": "4weeks",
+        "github": "https://github.com/HackYourFuture-CPH/nodeJS"
+    },
+    {
+        "name": "Database",
+        "duration": "7weeks",
+        "github": "https://github.com/HackYourFuture-CPH/database"
+    },
+    {
+        "name": "ReactJS",
+        "duration": "5weeks",
+        "github": "https://github.com/HackYourFuture-CPH/ReactJS"
+    },
+    {
+        "name": "NodeJS 2",
+        "duration": 9
+    },
+    {
+        "name": "NodeJS 3",
+        "duration": 9
+    }
+]
